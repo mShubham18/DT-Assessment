@@ -1,0 +1,37 @@
+Company,Website,Relevant,Category,Manufacturer,Brand,Distributor,F&B,Probiotics,Fortification,Gut Health,Womens Health,Cognitive Health
+Nestle,https://www.nestle.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Dr. Reddy's Laboratories,https://www.drreddys.com,Yes,Brand,No,No,No,Yes,No,No,No,No,No
+Coca,https://www.coca-colacompany.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Pfizer,https://www.pfizer.com,Yes,Bulk (Distributor),No,Yes,Yes,Yes,No,No,No,No,No
+PepsiCo,https://www.pepsico.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Johnson & Johnson,https://www.jnj.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Danone,https://www.danone.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+General Mills,https://www.generalmills.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+GlaxoSmithKline (GSK),https://www.gsk.com,Yes,Brand,No,No,No,Yes,No,No,No,No,No
+Merck & Co.,https://www.merck.com,Yes,Bulk (Distributor),No,No,Yes,Yes,No,No,No,No,No
+Unilever,https://www.unilever.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Roche,https://www.roche.com,Yes,Brand,No,No,No,Yes,No,No,No,Yes,No
+Nestle Waters,https://www.nestlewaters.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Sanofi,https://www.sanofi.com,Yes,Brand,No,No,No,Yes,No,No,No,No,No
+Mondelez International,https://www.mondelezinternational.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Novartis,https://www.novartis.com,Yes,Brand,No,No,No,Yes,No,No,No,No,No
+Kraft Heinz,https://www.kraftheinzcompany.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Tyson Foods,https://www.tysonfoods.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Teva Pharmaceuticals,https://www.tevapharm.com,Yes,Brand,No,No,No,Yes,No,No,No,No,No
+Mars Incorporated,https://www.mars.com,Yes,Bulk (Manufacturer),Yes,Yes,No,Yes,No,No,No,No,No
+Campbell Soup Company,https://www.campbellsoupcompany.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Amgen,https://www.amgen.com,Yes,Brand,No,No,No,Yes,No,No,No,No,No
+Conagra Brands,https://www.conagrabrands.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+AstraZeneca,https://www.astrazeneca.com,Yes,Brand,No,No,No,Yes,No,No,No,No,No
+Molson Coors,https://www.molsoncoors.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Boehringer Ingelheim,https://www.boehringeringelheim.com,Yes,Brand,No,No,No,Yes,No,No,No,No,No
+AB InBev,https://www.abinbev.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+BASF,https://www.basf.com,Yes,Brand,No,No,No,Yes,No,No,No,No,No
+Diageo,https://www.diageo.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Procter & Gamble (P&G),https://www.pg.com,Yes,Brand,No,Yes,No,Yes,Yes,No,No,No,No
+Heineken,https://www.theheinekencompany.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+Medtronic,https://www.medtronic.com,Yes,Brand,No,No,No,Yes,No,No,No,Yes,No
+McKesson,https://www.mckesson.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
+AmerisourceBergen,https://www.amerisourcebergen.com,Yes,Bulk (Manufacturer),Yes,No,No,Yes,No,No,No,No,No
+Cardinal Health,https://www.cardinalhealth.com,Yes,Bulk (Manufacturer),Yes,Yes,No,Yes,No,No,No,No,No
+Kellogs,https://www.kellogs.com,Yes,Brand,No,Yes,No,Yes,No,No,No,No,No
